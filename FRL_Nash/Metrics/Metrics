@@ -1,0 +1,11 @@
+Client  Size      Budget    Utility   
+1       21940     1.80      719.31    
+2       24638     1.99      818.87    
+3       24690     2.01      826.39    
+4       27392     2.05      909.00    
+5       27246     2.16      909.88    
+
+Final Metrics:
+Fairness Index: 0.997
+Size Correlation: 0.930
+Utility Ratio: 0.796
